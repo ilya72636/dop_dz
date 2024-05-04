@@ -11,3 +11,14 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.error {
+  background: red;
+}
+
+.pad {
+  padding: 50px;
+}
+body {
+  font-family: 'Inter', sans-serif;
+}
